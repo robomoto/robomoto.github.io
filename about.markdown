@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Once upon a time, I was musician--but I found being poor didn't agree with me.  I moved on through a number of career changes before eventually finding my way back to school for a Computer Science degree.  I like puzzles and building things.  I have always been and am still more or less fixated on audio recording tech.  I own more microphones than any one person should outside of a studio.    
