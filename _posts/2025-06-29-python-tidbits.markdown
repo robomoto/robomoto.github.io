@@ -7,7 +7,7 @@ categories: python
 
  I have been working through [Dr. Fred Baptiste's Python 3 Deep Dive](https://www.udemy.com/course/python-3-deep-dive-part-1/) 
 
-I'm writing about some of the things I find that I had not intuited that I find there. I find doing so helps set things in my mind, and if that fails, it also gives me something to refer back to. 
+I'm writing about some of the things I find in it that I had not intuited. I find doing so helps set things in my mind, and if that fails, it also gives me something to refer back to. 
 
 ## Object Mutability
 
